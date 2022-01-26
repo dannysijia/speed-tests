@@ -74,7 +74,7 @@ print('-------------------------------------------------------------')
 print('Testing "Hot cache speed"')
 print('-------------------------------------------------------------')
 
-url = "https://cdn4akamai.blob.core.windows.net/cdn4akamai-blob/R.jpg"
+# url = "https://cdn4akamai.blob.core.windows.net/cdn4akamai-blob/R.jpg"
 n = 10
 
 responses = []
